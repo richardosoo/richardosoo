@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardosoo
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate with like minded mentors
+- 💞️ I’m looking forward to collaborate with like minded mentors
 - 📫 How to reach me osoorichard2014@gmail.com
 
 <!---
